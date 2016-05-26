@@ -25,9 +25,11 @@
 
 
     $('.owl-carousel').owlCarousel({
-        loop: true,
+        loop: false,
         margin: 10,
         nav: true,
         items: 5
     });
 })(jQuery);
+
+   
